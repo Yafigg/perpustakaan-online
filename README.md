@@ -30,4 +30,4 @@ Di Page ini, kita bisa mengedit isi dari buku yang telah kita tambahkan
 Di fitur ini, kita bisa mengedit dan menghapus isi dari buku yang ada, namun disini saya mencoba menghapus
 
 ### Delete Book
-![Tampilan Home](Hasil/home-edit_deleted.png)
+![Tampilan Home](Hasil/home-edit_delete.png)
